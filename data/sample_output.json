@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Spacious 4-room apartment in Pforzheim",
+    "description": "Beautiful and bright apartment with balcony near city center.",
+    "price": "€1,250/month",
+    "address": "Pforzheim, Germany",
+    "photos": [
+      "https://example.com/photo1.jpg",
+      "https://example.com/photo2.jpg"
+    ],
+    "energyInformation": "B, 68 kWh/(m²·a)",
+    "constructionDate": "2005",
+    "publisher": "Real Estate GmbH",
+    "email": "info@realestategmbh.de",
+    "phone": "+49 123 456789",
+    "transportation": "500m to bus stop, 1km to train station",
+    "listing_url": "https://www.immobilienscout24.de/expose/123456789",
+    "apify_monitoring_status": "new"
+  },
+  {
+    "title": "Cozy studio near Munich city center",
+    "description": "Modern studio apartment ideal for young professionals.",
+    "price": "€890/month",
+    "address": "Munich, Germany",
+    "photos": [
+      "https://example.com/photo3.jpg"
+    ],
+    "energyInformation": "C, 92 kWh/(m²·a)",
+    "constructionDate": "2012",
+    "publisher": "City Living AG",
+    "email": "contact@cityliving.example",
+    "phone": "+49 987 654321",
+    "transportation": "200m to U-Bahn station, 100m to bus stop",
+    "listing_url": "https://www.immobilienscout24.de/expose/987654321",
+    "apify_monitoring_status": "delisted"
+  }
+]
