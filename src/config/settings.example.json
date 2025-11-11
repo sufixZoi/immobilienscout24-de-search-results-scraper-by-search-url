@@ -1,0 +1,13 @@
+{
+  "user_agent": "Mozilla/5.0 (compatible; Bitbash-immobilienscout24-scraper/1.0; +https://bitbash.dev)",
+  "timeout_seconds": 20,
+  "max_pages": 5,
+  "delay_between_requests": 1.0,
+  "output_format": "json",
+  "delta_mode": false,
+  "previous_output": "data/sample_output.json",
+  "proxies": {
+    "http": "",
+    "https": ""
+  }
+}
