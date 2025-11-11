@@ -1,0 +1,3 @@
+# Example immobilienscout24.de search URLs (replace with your own)
+https://www.immobilienscout24.de/Suche/de/baden-wuerttemberg/pforzheim/wohnung-mieten
+https://www.immobilienscout24.de/Suche/de/bayern/muenchen/wohnung-mieten
